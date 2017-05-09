@@ -1,0 +1,10 @@
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/bin/Debug/netcoreapp1.1/portfolioUpdate.deps.json
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/bin/Debug/netcoreapp1.1/portfolioUpdate.runtimeconfig.json
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/bin/Debug/netcoreapp1.1/portfolioUpdate.runtimeconfig.dev.json
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/bin/Debug/netcoreapp1.1/portfolioUpdate.dll
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/bin/Debug/netcoreapp1.1/portfolioUpdate.pdb
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/obj/Debug/netcoreapp1.1/portfolioUpdate.csprojResolveAssemblyReference.cache
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/obj/Debug/netcoreapp1.1/portfolioUpdate.csproj.CoreCompileInputs.cache
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/obj/Debug/netcoreapp1.1/portfolioUpdate.AssemblyInfo.cs
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/obj/Debug/netcoreapp1.1/portfolioUpdate.dll
+/Users/jefflongo/Projects/portfolioUpdate/portfolioUpdate/obj/Debug/netcoreapp1.1/portfolioUpdate.pdb
